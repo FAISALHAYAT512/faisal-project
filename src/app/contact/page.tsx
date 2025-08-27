@@ -14,7 +14,7 @@ const page = () => {
     </blockquote>
     <figcaption className="font-medium">
       <div className="text-sky-500 dark:text-sky-400">
-        FA hayat
+        Faisal hayat
       </div>
       <div className="text-slate-700 dark:text-slate-500">
         AI  develpor, Pakistan
@@ -33,7 +33,7 @@ const page = () => {
     </blockquote>
     <figcaption className="font-medium">
       <div className="text-sky-500 dark:text-sky-400">
-        FA hayat
+        Faisal hayat
       </div>
       <div className="text-slate-700 dark:text-slate-500">
         AI  develpor, Pakistan
@@ -52,7 +52,7 @@ const page = () => {
     </blockquote>
     <figcaption className="font-medium">
       <div className="text-sky-500 dark:text-sky-400">
-        FA hayat
+        Faisal hayat
       </div>
       <div className="text-slate-700 dark:text-slate-500">
         AI  develpor, Pakistan
